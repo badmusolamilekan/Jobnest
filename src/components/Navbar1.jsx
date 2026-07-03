@@ -8,7 +8,7 @@ export default function Navbar() {
 
   return (
     <div className="bg-slate-100   shadow-sm sticky top-0 z-99 ">
-      <div className="flex justify-between items-center px-8 py-4 max-w-6xl mx-auto">
+      <div className="flex justify-between items-center px-8 py-4 max-w-7xl mx-auto">
         <NavLink to="/">
           <p className="font-bold text-2xl text-emerald-600 tracking-tight">Jobnest</p>
         </NavLink>
